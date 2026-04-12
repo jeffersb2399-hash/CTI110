@@ -39,9 +39,25 @@ print()
 ##================================
 # Comment Block
 #================================
-#Create a dictionary of modules
-#Get grades for each module from user   
-#Find the lowest grade, highest grade, the sum, and the average in the list
-#Display the lowest grade, highest grade, the sum, and the average in the list
+#Display a blank line
+#Creat a list of module names (Module 1, Module 2, Module 3, Module 4, Module 5, Module 6 )
+#Display a blank line
+#Ask the user to enter the grade for module 1
+#Ask the user to enter the grade for module 2
+#Ask the user to enter the grade for module 3       
+#Ask the user to enter the grade for module 4
+#Ask the user to enter the grade for module 5
+#Ask the user to enter the grade for module 6
+#Display a blank line
+#Display the results header 
+#Find the lowest grade in the list
+#Find the highest grade in the list 
+#Find the sum of the grades in the list
+#Find the average of the grades in the list 
+#Display the lowest grade
+#Display the highest grade 
+# Display the sum 
+# Display the average 
+#Display a line of dashes to separate the results
 
 
